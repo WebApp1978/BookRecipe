@@ -6,7 +6,7 @@
     "display_override": ["window-control-overlay", "minimal-ui"],
     "display": "standalone",
     "theme_color": "#948b6e",
-    "background_color": "#3367D6",
+    "background_color": "#F48435",
     "icons": [
         {
             "src": "/BookRecipe/assets/icons/icon1.png",
