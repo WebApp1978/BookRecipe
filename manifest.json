@@ -1,7 +1,7 @@
 
 {
-    "name": "Test App",
-    "short_name": "My Clear",
+    "name": "Web App",
+    "short_name": "Web App test",
     "start_url": "/BookRecipe/",
     "display_override": ["window-control-overlay", "minimal-ui"],
     "display": "standalone",
