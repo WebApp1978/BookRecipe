@@ -9,7 +9,7 @@
     "background_color": "#3367D6",
     "icons": [
         {
-            "src": "/BookRecipe/assets/icons/android-launchericon-512-512.png",
+            "src": "/BookRecipe/assets/icons/icon1.png",
             "sizes": "512x512",
             "type":"image/png"   
         }
